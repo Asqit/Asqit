@@ -1,16 +1,18 @@
-### Hi there 👋
+My name is Ondřej, Andrew in english and I love computers and coding.
+Most of my coding time I spend doing web things, most of it is frontend. 
+I have experience with:
+- `HTML5`
+- `CSS3`
+- `SASS`
+- `ECMAscript`
+- `TypeScript`
+- `JSON` 
+- `Markdown`
+- `Node.js`
+- `Express`
+- `React`
+- `Python`(beginer)
+- `C`(beginer)
+- `MySQL`(beginer)
 
-<!--
-**Asqit/Asqit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I you wish to contact me, do so via [email](ondrejtucek9@gmail.com) or my [reddit](https://www.reddit.com/user/Asqit) account.
