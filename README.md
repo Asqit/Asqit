@@ -8,11 +8,11 @@
   - 📖 History (SPQR, Athens)
 
 <details>
-  <summary>Skill-Set</summary>
+  <summary>Programming Languages</summary>
   
 | **Things I Use** | **I Am Learning** | **I Wanna Learn** |
 |:----------------:|:-----------------:|:-----------------:|
-| Javascript       | Bash              | Rust              |
+| Javascript       | BASH              | Rust              |
 | Typescript       | Golang            |                   |
 | Python           |                   |                   |
 
@@ -21,9 +21,9 @@
 
 ## Job 🧑‍💼
 
-I am currently looking for job in Prague. 
+I am currently looking for a job in Prague. 
 
-I am able to do both front-end and back-end with JavaScript/Typescript. 
+I am able to do front-end (react, vanilla) and back-end (node.js, express) with JavaScript/Typescript.
 
 Learn more at my [website](https://asqit.deno.dev)
 
