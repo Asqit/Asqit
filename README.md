@@ -23,7 +23,8 @@
 
 I am currently looking for a job in Prague. 
 
-I am able to do front-end (react, vanilla) and back-end (node.js, express) with JavaScript/Typescript.
+I am willing to do front-end and back-end with `JavaScript`, thought `Typescript` is preffered. 
+And I really want to apply my `Go` skills, so perhaps back-end or anything with `Go` would be awesome!
 
 Learn more at my [website](https://asqit.deno.dev)
 
