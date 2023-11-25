@@ -19,14 +19,5 @@
 
 </details>
 
-## Job 🧑‍💼
-
-I am currently looking for a job in Prague. 
-
-I am willing to do front-end and back-end with `JavaScript`, though `Typescript` is preffered. 
-And I really want to apply my `Go` skills, so perhaps back-end or anything with `Go` would be awesome!
-
-experiences with: `Preact, React, Redux-toolkit + Query, Deno, node.js, express.js, JWT, Prisma, Tailwind css, bootstrap, SASS (with scss syntax)`
-
 Learn more at my [website](https://asqit.deno.dev)
 
