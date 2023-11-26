@@ -5,7 +5,6 @@
   - 💻 Programming useless things
   - 🔧 Computer tinkering
   - 🔰 Cars (daily: E36 316i, project: Honda CD7 from Ohio)
-  - 📖 History (SPQR, Athens)
 
 <details>
   <summary>Programming Languages</summary>
