@@ -9,6 +9,6 @@
 
 - 💬 Ask me about **Typescript, React**
 
-- 📫 How to reach me [email](ondrejtucek9@gmail.com*), [website](https://asqit.deno.dev)
+- 📫 How to reach me [email](mailto:ondrejtucek9@gmail.com*), [website](https://asqit.deno.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asqit&hide_progress=true)
