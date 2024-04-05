@@ -1,22 +1,19 @@
-# Ahoj, Světe! 👋
+<h1>Hi 👋, I'm Ondřej</h1>
+<h3>A passionate web developer from Czechia</h3>
 
-- My name is Ondřej and I am web developer from Czech Republic 🇨🇿. 
-- These are my hobbies:
-  - 💻 Programming useless things
-  - 🔧 Computer tinkering
-  - 🔰 Cars (daily: E36 316i, project: Honda CD7 from Ohio)
+- 🔭 I’m currently working on **secret**
 
-<details>
-  <summary>Programming Languages</summary>
-  
-| **Things I Use** | **I Am Learning** | **I Wanna Learn** |
-|:----------------:|:-----------------:|:-----------------:|
-| Javascript       | BASH              | Rust              |
-| Typescript       | Golang            |                   |
-| Python           |                   |                   |
+- 🌱 I’m currently learning **Python, Golang**
 
+- 👨‍💻 All of my projects are available at [asqit.deno.dev](asqit.deno.dev)
 
-</details>
+- 💬 Ask me about **Typescript, React**
 
-Learn more at my [website](https://asqit.deno.dev)
+- 📫 How to reach me [email](ondrejtucek9@gmail.com*), [website](https://asqit.deno.dev)
 
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asqit&hide_progress=true)
