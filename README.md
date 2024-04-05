@@ -11,9 +11,4 @@
 
 - 📫 How to reach me [email](ondrejtucek9@gmail.com*), [website](https://asqit.deno.dev)
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asqit&hide_progress=true)
