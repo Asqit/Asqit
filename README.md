@@ -11,4 +11,4 @@
 
 - 📫 How to reach me [email](mailto:ondrejtucek9@gmail.com*), [website](https://asqit.deno.dev)
 
-![Top Langs](https://github-languages-widget.onrender.com/api/v1/top-languages?username=Asqit&dark=false)
+![Top Langs](https://github-languages-widget.onrender.com/api/v1/top-languages?username=Asqit&dark=true)
