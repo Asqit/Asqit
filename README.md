@@ -8,4 +8,4 @@ Recently, I’ve been diving into Golang to expand my horizons and explore diffe
 When I’m not coding, you’ll probably find me outside with my perfect girlfriend or tinkering with old computers.
 
 
-<img src="https://github-language-widget.deno.dev/?username=asqit&dark=true" alt="top-languages"/>
+<img src="https://github-language-widget.deno.dev/?username=asqit&dark=false" alt="top-languages"/>
