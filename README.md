@@ -5,4 +5,4 @@
 I’m Andy—a shy, nerdy Gen-Z web developer who grew up tinkering with computers and building side projects. I’ve been coding since 2017, exploring everything from Linux servers to modern web apps. No degree, just raw passion, curiosity, and way too many browser tabs open.
 
 
-![top languages](https://github-language-widget.deno.dev/?username=Asqit&color=3c3835)
+![top languages](https://github-language-widget.deno.dev/?username=Asqit&color=b16286)
